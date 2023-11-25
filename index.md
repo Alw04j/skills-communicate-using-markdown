@@ -19,3 +19,6 @@ b=20
 c=a+b
 print(c)
 ```
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
